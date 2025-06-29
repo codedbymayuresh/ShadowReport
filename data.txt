@@ -1,0 +1,22 @@
+Name : m 
+Roll : 5 
+marks(maths) : 5.000000 
+marks(phy) 5.000000 
+marks(chem) 5.000000 
+marks(eng) 5.000000 
+marks(ec1) 5.000000 
+marks(ec2) 5.000000 
+total marks : 30.000000 
+percentage : 5.000000 
+grade : E 
+Name : m 
+Roll : 5 
+marks(maths) : 6.000000 
+marks(phy) 6.000000 
+marks(chem) 6.000000 
+marks(eng) 6.000000 
+marks(ec1) 6.000000 
+marks(ec2) 6.000000 
+total marks : 36.000000 
+percentage : 6.000000 
+grade : E 
